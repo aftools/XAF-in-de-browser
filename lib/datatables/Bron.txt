@@ -1,0 +1,4 @@
+Bron:
+https://github.com/Mobius1/Vanilla-DataTables
+
+Zie ook de wiki: https://github.com/Mobius1/Vanilla-DataTables/wiki
